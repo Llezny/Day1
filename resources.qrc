@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/randomimg.png</file>
+    </qresource>
+</RCC>
